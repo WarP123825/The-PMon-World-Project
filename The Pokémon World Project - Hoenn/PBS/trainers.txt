@@ -4059,6 +4059,8 @@ Pokemon = SLUGMA,32
 Pokemon = PELIPPER,32
 Pokemon = GROVYLE,34
 	Gender = male
+
+
 #-------------------------------
 # RSE ROUTES
 #-------------------------------
@@ -4109,7 +4111,7 @@ Pokemon = MARILL,15
 LoseText = 
 Pokemon = TENTACOOL,15
 [RSE_AROMALADY,Daisy]
-LoseText = 
+LoseText = You weren't led astray by our aroma…
 Pokemon = SHROOMISH,14
 Pokemon = ROSELIA,14
 [RSE_TWINS,Amy & Liv]
@@ -4182,15 +4184,17 @@ Pokemon = SEEDOT,7
 LoseText = What the…
 Pokemon = MAGIKARP,9
 [RSE_LADY,Cindy]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Oh, my!
 Pokemon = ZIGZAGOON,7
 	Item = NUGGET
 [RSE_RICHBOY,Winston]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Why couldn't I win?
 Pokemon = ZIGZAGOON,7
 	Item = NUGGET
 [RSE_LASS,Haley]
-LoseText = 
+LoseText = I shouldn't have battled…
 Pokemon = LOTAD,6
 Pokemon = SHROOMISH,6
 [RSE_TWINS,Gia & Mia]
@@ -4198,7 +4202,7 @@ LoseText =
 Pokemon = SEEDOT,6
 Pokemon = LOTAD,6
 [RSE_FISHERMAN,Ivan]
-LoseText = 
+LoseText = I thought I wasn't too bad, if I may\nsay so, but I guess not… Bleah…
 Pokemon = MAGIKARP,5
 Pokemon = MAGIKARP,6
 Pokemon = MAGIKARP,7
@@ -4308,10 +4312,10 @@ Pokemon = SANDSLASH,37
 # Route 106
 #-------------------------------
 [RSE_FISHERMAN,Ned]
-LoseText = 
+LoseText = I lost because I'm trying to not go\nto the washroom…
 Pokemon = TENTACOOL,11
 [RSE_FISHERMAN,Elliot]
-LoseText = 
+LoseText = Like in deep-sea fishing, I lost\nspectacularly!
 Pokemon = MAGIKARP,10
 Pokemon = TENTACOOL,7
 Pokemon = MAGIKARP,10
@@ -4443,37 +4447,37 @@ Pokemon = TENTACRUEL,36
 # Route 109
 #-------------------------------
 [RSE_SAILOR,Huey]
-LoseText = 
+LoseText = You're the best!
 Pokemon = WINGULL,12
 Pokemon = MACHOP,12
 [RSE_SAILOR,Edmond
-LoseText = 
+LoseText = Urp… Ooooooohhhhhh…\nUrrrrpppp…
 Pokemon = WINGULL,13
 [RSE_TUBER_M,Ricky]
-LoseText = 
+LoseText = Groan…
 Pokemon = ZIGZAGOON,13
 [RSE_TUBER_F,Hailey]
-LoseText = 
+LoseText = I thought so!\nI didn't think we could win.
 Pokemon = MARILL,13
 [RSE_TUBER_F,Lola]
-LoseText = 
+LoseText = Mommy!
 Pokemon = AZURILL,12
 Pokemon = AZURILL,12
 [RSE_TUBER_M,Simon]
-LoseText = 
+LoseText = …I lost, but I won't cry…
 Pokemon = AZURILL,12
 Pokemon = MARILL,12
 [RSE_TUBER_M,Chandler]
-LoseText = 
+LoseText = Oh,oh!\nToo bad!
 Pokemon = TENTACOOL,12
 Pokemon = TENTACOOL,12
 [RSE_SAILOR,Dwayne]
-LoseText = 
+LoseText = That was a hot battle!\nI can accept that loss, matey!
 Pokemon = WINGULL,11
 Pokemon = MACHOP,11
 Pokemon = TENTACOOL,11
 [RSE_BEAUTY,Johanna]
-LoseText = 
+LoseText = That's hot!
 Pokemon = GOLDEEN,13
 [RSE_BIRDKEEPER,Elijah]
 LoseText = 
@@ -4537,37 +4541,37 @@ Pokemon = AZUMARILL,35
 # Route 110
 #-------------------------------
 [RSE_POKEFAN_F,Isabel]
-LoseText = 
+LoseText = Oh, dear, this won't do.
 Pokemon = PLUSLE,14
 	Item = ORANBERRY
 Pokemon = MINUN,14
 	Item = ORANBERRY
 [RSE_POKEFAN_M,Kaleb]
-LoseText = 
+LoseText = Have you any compassion or pity?
 Pokemon = MINUN,14
 	Item = ORANBERRY
 Pokemon = PLUSLE,14
 	Item = ORANBERRY
 [RSE_YOUNGSTER,Timmy]
-LoseText = 
+LoseText = Being cool isn't enough to win…
 Pokemon = ARON,15
 Pokemon = ELECTRIKE,13
 [RSE_COLLECTOR,Edwin]
-LoseText = 
+LoseText = I wanted to complete\nmy collection…
 Pokemon = LOMBRE,14
 Pokemon = NUZLEAF,14
 [RSE_GUITARIST,Joseph]
-LoseText = 
+LoseText = You got me into the groov all right…
 Pokemon = ELECTRIKE,14
 Pokemon = VOLTORB,14
 [RSE_PSYCHIC_M,Edward]
-LoseText = 
+LoseText = I failed to prophesize my own demise!
 Pokemon = ABRA,15
 [RSE_TRIATHLETEBIKE_F,Alyssa]
-LoseText = 
+LoseText = Oops!\nI ended up losing!
 Pokemon = MAGNEMITE,15
 [RSE_FISHERMAN,Dale]
-LoseText = 
+LoseText = I lost!\nDrat!
 Pokemon = TENTACOOL,11
 Pokemon = WAILMER,14
 Pokemon = TENTACOOL,11
@@ -5029,25 +5033,25 @@ Pokemon = HARIYAMA,42
 # Route 116
 #-------------------------------
 [RSE_BUGCATCHER,Jose]
-LoseText = 
+LoseText = I lost!\nI thought I had you!
 Pokemon = WURMPLE,8
 Pokemon = NINCADA,8
 [RSE_YOUNGSTER,Joey]
-LoseText = 
+LoseText = Ouch! A scrape!\nI have to put on a bandage!
 Pokemon = MACHOP,9
 [RSE_SCHOOLKID_F,Karen]
-LoseText = 
+LoseText = I'm in shock--I lost?
 Pokemon = SHROOMISH,9
 [RSE_YOUNGSTER,Johnson]
-LoseText = 
+LoseText = That was fun even though I lost.
 Pokemon = SHROOMISH,8
 Pokemon = LOTAD,8
 [RSE_HIKER,Devan]
-LoseText = 
+LoseText = Aiyiyi!\nNo contest at all!
 Pokemon = GEODUDE,8
 Pokemon = GEODUDE,8
 [RSE_HIKER,Clark]
-LoseText = 
+LoseText = Gasp… Gasp…\nLosing made me tired…
 Pokemon = GEODUDE,8
 [RSE_SCHOOLKID_M,Jerry]
 LoseText = 
@@ -6220,13 +6224,13 @@ Pokemon = HARIYAMA,33
 #-------------------------------
 # Petalburg Woods #-------------
 [RSE_BUGCATCHER,Lyle]
-LoseText = 
+LoseText = I have all these Pokémon,\nbut I couldn't win…
 Pokemon = WURMPLE,3
 Pokemon = WURMPLE,3
 Pokemon = WURMPLE,3
 Pokemon = WURMPLE,3
 [RSE_BUGCATCHER,James]
-LoseText = 
+LoseText = I can't be popular if I lose.
 Pokemon = NINCADA,6
 Pokemon = NINCADA,6
 [RSE_BUGCATCHER,James,1]
@@ -7148,54 +7152,55 @@ Pokemon = MIGHTYENA,38
 #-------------------------------
 # Gym 1 #-----------------
 [RSE_YOUNGSTER,Josh]
-LoseText = 
+LoseText = You were too good for me…
 Pokemon = GEODUDE,10
 [RSE_YOUNGSTER,Tommy]
-LoseText = 
+LoseText = Wow! You've got some potential!
 Pokemon = GEODUDE,8
 Pokemon = GEODUDE,8
 [RSE_HIKER,Mark]
-LoseText = 
+LoseText = Oh, man oh man!\nOur challenger is one fiesty 
+customer!
 Pokemon = GEODUDE,8
 Pokemon = GEODUDE,8
 # Gym 2 #-----------------
 [RSE_BATTLEGIRL,Laura]
-LoseText = 
+LoseText = Waaaaaaah!\nI lost!
 Pokemon = MEDITITE,13
 [RSE_BATTLEGIRL,Lilith]
-LoseText = 
+LoseText = Oh, you…\nI don't want to know you!
 Pokemon = MEDITITE,13
 [RSE_SAILOR,Brenden]
-LoseText = 
+LoseText = How'd this happen?\nIt's not like me to lose this way!
 Pokemon = MACHOP,13
 [RSE_BLACKBELT,Takao]
 LoseText = 
 Pokemon = MACHOP,13
 [RSE_BLACKBELT,Cristian]
-LoseText = 
+LoseText = Grrrrr!\nVastly overpowered!
 Pokemon = MAKUHITA,13
 [RSE_BATTLEGIRL,Jocelyn]
-LoseText = 
+LoseText = But… How?\nHow could I lose so easily?
 Pokemon = MEDITITE,13
 # Gym 3 #-----------------
 [RSE_BATTLEGIRL,Vivian]
-LoseText = 
+LoseText = I'm shocked by your power!
 Pokemon = MEDITITE,17
 Pokemon = MEDITITE,17
 [RSE_GUITARIST,Kirk]
-LoseText = 
+LoseText = That was plugged in, amped up,\over-driven electric, man!
 Pokemon = ELECTRIKE,17
 Pokemon = VOLTORB,17
 [RSE_YOUNGSTER,Ben]
-LoseText = 
+LoseText = It's no fun to lose…
 Pokemon = ZIGZAGOON,17
 Pokemon = GULPIN,17
 [RSE_BUGMANIAC,Angelo]
-LoseText = 
+LoseText = Oh…\nMy eyes are frazzled…
 Pokemon = ILLUMISE,17
 Pokemon = VOLBEAT,17
 [RSE_GUITARIST,Shawn]
-LoseText = 
+LoseText = Unplugged and turned off…
 Pokemon = VOLTORB,17
 Pokemon = MAGNEMITE,17
 # Gym 4 #-----------------
