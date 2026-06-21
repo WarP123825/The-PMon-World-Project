@@ -4119,12 +4119,12 @@ LoseText =
 Pokemon = PLUSLE,15
 Pokemon = MINUN,15
 [RSE_POKEFAN_M,Miguel]
-LoseText = 
+LoseText = Oh, my gosh!\nMy darling POKéMON!
 Pokemon = SKITTY,15
 	Gender = female
 	Item = ORANBERRY
 [RSE_FISHERMAN,Andrew]
-LoseText = 
+LoseText = Gah! Lost it!\nI'm even more annoyed now!
 Pokemon = MAGIKARP,5
 Pokemon = TENTACOOL,10
 Pokemon = MAGIKARP,15
@@ -4411,6 +4411,7 @@ Pokemon = MARILL,25
 LoseText = 
 Pokemon = TENTACRUEL,26
 [RSE_COOLTRAINER_F,Carolina]
+Items = SUPERPOTION
 LoseText = 
 Pokemon = MANECTRIC,24
 Pokemon = SWELLOW,24
@@ -4623,30 +4624,35 @@ Pokemon = SHIFTRY,35
 # Route 111
 #-------------------------------
 [RSE_AROMALADY,Celina]
-LoseText = 
+LoseText = Oh… My…\nThat was too much excitement.
 Pokemon = ROSELIA,18
 [RSE_CAMPER,Tyron]
-LoseText = 
+LoseText = Wait!\nDid you get a good look at my POKéMON?
 Pokemon = SANDSHREW,19
 [RSE_PICKNICKER,Bianca]
-LoseText = 
+LoseText = Ooh lala!\nThat's a lot to take!
 Pokemon = SHROOMISH,18
 [RSE_KINDLER,Hayden]
-LoseText = 
+LoseText = Groan…
 Pokemon = NUMEL,18
-[RSE_INTERVIEWERS,Gabby & Ty]
-LoseText = 
+[RSE_INTERVIEWER_GABBY,Gabby & Ty]
+LoseText = GABBY: My eyes didn't lie!\nI did discover an astonishing TRAINER!
+Pokemon = MAGNEMITE,17
+Pokemon = WHISMUR,17
+[RSE_INTERVIEWER_TY,Gabby & Ty]
+LoseText = TY: Yep, we sure spotted a hot TRAINER.\nThis is a huge scoop for us!
 Pokemon = MAGNEMITE,17
 Pokemon = WHISMUR,17
 [RSE_PICKNICKER,Irene]
-LoseText = 
+LoseText = Oh, you're disgustingly good!
 Pokemon = SHROOMISH,17
 Pokemon = MARILL,17
 [RSE_CAMPER,Travis]
-LoseText = 
+LoseText = My POKéMON lost its pep…
 Pokemon = SANDSHREW,18
 [RSE_COOLTRAINER_M,Wilton]
-LoseText = 
+Items = SUPERPOTION
+LoseText = I see, you've toughened them\nconsiderably.
 Pokemon = ELECTRIKE,17
 Pokemon = WAILMER,17
 Pokemon = MAKUHITA,17
@@ -4654,7 +4660,8 @@ Pokemon = MAKUHITA,17
 LoseText = 
 Pokemon = MACHOP,19
 [RSE_COOLTRAINER_F,Brooke]
-LoseText = 
+Items = SUPERPOTION
+LoseText = They didn't just look strong, they are strong!
 Pokemon = WINGULL,17
 Pokemon = NUMEL,17
 Pokemon = ROSELIA,17
@@ -4717,27 +4724,27 @@ Pokemon = ROSELIA,34
 # Route 112
 #-------------------------------
 [RSE_CAMPER,Larry]
-LoseText = 
+LoseText = Waaaah!
 Pokemon = NUZLEAF,18
 [RSE_PICKNICKER,Carol]
-LoseText = 
+LoseText = Oh, you're so strong!
 Pokemon = TAILLOW,17
 Pokemon = LOMBRE,17
 [RSE_HIKER,Trent]
-LoseText = 
+LoseText = Ouch! My legs cramped up!
 Pokemon = GEODUDE,16
 Pokemon = GEODUDE,17
 Pokemon = GEODUDE,16
 [RSE_HIKER,Brice]
-LoseText = 
+LoseText = I lost!\nHahahaha!
 Pokemon = NUMEL,17
 Pokemon = MACHOP,17
 [RSE_KINDLER,Bryant]
-LoseText = 
+LoseText = What a bumpy ride that was!
 Pokemon = NUMEL,18
 Pokemon = SLUGMA,18
 [RSE_AROMALADY,Shayla]
-LoseText = 
+LoseText = Oh, how strong you are!\nYou've given me quite a shock!
 Pokemon = SHROOMISH,18
 Pokemon = ROSELIA,18
 #-------------------------------
@@ -4771,41 +4778,41 @@ Pokemon = GOLEM,33
 # Route 113
 #-------------------------------
 [RSE_YOUNGSTER,Jaylen]
-LoseText = 
+LoseText = Peeuuw!\nThat stinks!
 Pokemon = TRAPINCH,19
 [RSE_NINJABOY,Lung]
-LoseText = 
+LoseText = I'll use my ninjutsu on you…\n"VOLCANIC ASH SWIRL CLOAK"!\m…What?\nIt's already over?
 Pokemon = KOFFING,18
 Pokemon = NINJASK,18
 [RSE_POKEMANIAC,Wyatt]
-LoseText = 
+LoseText = Y-you're all happy to win?\nEven tough it's only me?
 Pokemon = ARON,18
 Pokemon = ARON,18
 [RSE_CAMPER,Lawrence]
-LoseText = 
+LoseText = Ehehe.\nWe got beaten cleanly.
 Pokemon = BALTOY,18
 Pokemon = SANDSHREW,18
 [RSE_PARASOLLADY,Madeline]
-LoseText = 
+LoseText = Huff, huff…\nI am exhausted…
 Pokemon = NUMEL,19
 [RSE_TWINS,Tori & Tia]
 LoseText = 
 Pokemon = SPINDA,19
 Pokemon = SPINDA,19
 [RSE_NINJABOY,Lao]
-LoseText = 
+LoseText = With honor I admit defeat!
 Pokemon = KOFFING,17
 Pokemon = KOFFING,17
 Pokemon = KOFFING,17
 [RSE_YOUNGSTER,Dillon]
-LoseText = 
+LoseText = You're some kind of strong!
 Pokemon = ARON,19
 [RSE_PICKNICKER,Sophie]
-LoseText = 
+LoseText = This is a dream.\nI'm sure of it…
 Pokemon = MARILL,17
 Pokemon = LOMBRE,19
 [RSE_BIRDKEEPER,Coby]
-LoseText = 
+LoseText = A… What?
 Pokemon = SKARMORY,17
 Pokemon = SWELLOW,19
 #-------------------------------
@@ -4857,18 +4864,18 @@ Pokemon = WEEZING,35
 LoseText = 
 Pokemon = BARBOACH,19
 [RSE_FISHERMAN,Nolan]
-LoseText = 
+LoseText = I like to battle, but that doesn't\nmean I'm good at it…
 Pokemon = BARBOACH,19
 [RSE_PICKNICKER,Charlotte]
 LoseText = 
 Pokemon = NUZLEAF,19
 [RSE_FISHERMAN,Claude]
-LoseText = 
+LoseText = If we were fishing, I would've won…
 Pokemon = MAGIKARP,16
 Pokemon = GOLDEEN,17
 Pokemon = BARBOACH,18
 [RSE_PICKNICKER,Nancy]
-LoseText = 
+LoseText = Oh, no!
 Pokemon = MARILL,18
 Pokemon = LOMBRE,18
 [RSE_SRANDJR,Tyra & Ivy]
@@ -4876,26 +4883,26 @@ LoseText =
 Pokemon = ROSELIA,18
 Pokemon = GRAVELER,20
 [RSE_CAMPER,Shane]
-LoseText = 
+LoseText = Way too strong!
 Pokemon = SANDSHREW,18
 Pokemon = NUZLEAF,18
 [RSE_POKEMANIAC,Steve]
-LoseText = 
+LoseText = M-My POKéMON…
 Pokemon = ARON,19
 [RSE_KINDLER,Bernie]
-LoseText = 
+LoseText = Thanks for dousing my fire!
 Pokemon = SLUGMA,18
 Pokemon = WINGULL,18
 [RSE_HIKER,Lucas]
-LoseText = 
+LoseText = The mountains are unforgiving…
 Pokemon = GEODUDE,18
 Pokemon = NUMEL,18
 [RSE_PICKNICKER,Angelina]
-LoseText = 
+LoseText = Oh, I see.\nThat's good to know.
 Pokemon = LOMBRE,18
 Pokemon = MARILL,18
 [RSE_HIKER,Lenny]
-LoseText = 
+LoseText = Yodelayhihoo!
 Pokemon = GEODUDE,18
 Pokemon = MACHOP,18
 #-------------------------------
@@ -5109,10 +5116,10 @@ Pokemon = MEDICHAM,34
 # Route 117
 #-------------------------------
 [RSE_TRIATHLETEJOG_M,Dylan]
-LoseText = 
+LoseText = I ran out of energy!
 Pokemon = DODUO,17
 [RSE_POKEMONBREEDER_F,Lydia]
-LoseText = 
+LoseText = Yes, they are growing properly.
 Pokemon = WINGULL,11
 Pokemon = SHROOMISH,11
 Pokemon = MARILL,11
@@ -5124,10 +5131,10 @@ LoseText =
 Pokemon = ZIGZAGOON,15
 Pokemon = MAKUHITA,17
 [RSE_TRIATHLETEJOG_F,Maria]
-LoseText = 
+LoseText = I need to get more practices in,\nI guess.
 Pokemon = DODUO,17
 [RSE_POKEMONBREEDER_M,Isaac]
-LoseText = 
+LoseText = You've raised yours superbly…
 Pokemon = WHISMUR,11
 Pokemon = ZIGZAGOON,11
 Pokemon = ARON,11
@@ -5135,16 +5142,16 @@ Pokemon = POOCHYENA,11
 Pokemon = TAILLOW,11
 Pokemon = MAKUHITA,11
 [RSE_BATTLEGIRL,Aisha]
-LoseText = 
+LoseText = I don't waste any time being angry\nover a loss--I would rather train.
 Pokemon = MEDITITE,17
 [RSE_TRIATHLETEJOG_F,Melina]
-LoseText = 
+LoseText = Oh, that's quite impressive!
 Pokemon = DODUO,17
 [RSE_PSYCHIC_F,Brandi]
-LoseText = 
+LoseText = Astonishing!
 Pokemon = RALTS,17
 [RSE_BUGMANIAC,Derek]
-LoseText = 
+LoseText = My ineptitude also remains\nunchanged…
 Pokemon = DUSTOX,16
 Pokemon = BEAUTIFLY,16
 #-------------------------------
@@ -5258,20 +5265,20 @@ Pokemon = HARIYAMA,31
 # Route 118
 #-------------------------------
 [RSE_AROMALADY,Rose]
-LoseText = 
+LoseText = Oh, dear me.\nI seem to have lost.
 Pokemon = ROSELIA,14
 Pokemon = SHROOMISH,14
 Pokemon = ROSELIA,14
 [RSE_YOUNGSTER,Deandre]
-LoseText = 
+LoseText = Comne in, POKéMON! Are you okay?\nPOKéMON 1, 2, and 3?!
 Pokemon = ZIGZAGOON,14
 Pokemon = ARON,14
 Pokemon = ELECTRIKE,14
 [RSE_FISHERMAN,Wade]
-LoseText = 
+LoseText = I was beaten in heart?
 Pokemon = TENTACOOL,16
 [RSE_GUITARIST,Dalton]
-LoseText = 
+LoseText = La-lalala…
 Pokemon = MAGNEMITE,15
 Pokemon = WHISMUR,15
 [RSE_INTERVIEWERS,Gabby & Ty,1]
@@ -6224,7 +6231,7 @@ Pokemon = HARIYAMA,33
 #-------------------------------
 # Petalburg Woods #-------------
 [RSE_BUGCATCHER,Lyle]
-LoseText = I have all these Pokémon,\nbut I couldn't win…
+LoseText = I have all these POKéMON,\nbut I couldn't win…
 Pokemon = WURMPLE,3
 Pokemon = WURMPLE,3
 Pokemon = WURMPLE,3
@@ -6251,6 +6258,12 @@ Pokemon = SURSKIT,33
 Pokemon = NINJASK,33
 Pokemon = DUSTOX,33
 Pokemon = NINJASK,33
+# Rusturf Tunnel #--------------
+[RSE_HIKER,Mike]
+LoseText = My POKéMON…\nRan out of power…
+Pokemon = GEODUDE,16
+Pokemon = GEODUDE,16
+Pokemon = MACHOP,16
 # Abandoned Ship #--------------
 [RSE_BEAUTY,Thalia]
 LoseText = 

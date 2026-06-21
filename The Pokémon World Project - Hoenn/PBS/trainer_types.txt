@@ -922,7 +922,30 @@ IntroBGM = ORAS Trainers_ Eyes Meet (Hiker)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
+
+#temp delete
 [RSE_INTERVIEWERS]
+Name = Interviewer
+# Non-plural 'interviewer' is accurate to the game, despite always being double battle
+Gender = Unknown
+BaseMoney = 96
+IntroBGM = 
+BattleBGM = ORAS Battle! (Trainer Battle)
+VictoryBGM = ORAS Victory! (Trainer Battle)
+#temp delete
+
+
+
+[RSE_INTERVIEWER_GABBY]
+Name = Interviewer
+# Non-plural 'interviewer' is accurate to the game, despite always being double battle
+Gender = Unknown
+BaseMoney = 96
+IntroBGM = 
+BattleBGM = ORAS Battle! (Trainer Battle)
+VictoryBGM = ORAS Victory! (Trainer Battle)
+#-------------------------------
+[RSE_INTERVIEWER_TY]
 Name = Interviewer
 Gender = Unknown
 BaseMoney = 96
