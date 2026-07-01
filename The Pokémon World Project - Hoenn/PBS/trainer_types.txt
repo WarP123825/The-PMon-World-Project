@@ -922,31 +922,9 @@ IntroBGM = ORAS Trainers_ Eyes Meet (Hiker)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
-
-#temp delete
 [RSE_INTERVIEWERS]
 Name = Interviewer
 # Non-plural 'interviewer' is accurate to the game, despite always being double battle
-Gender = Unknown
-BaseMoney = 96
-IntroBGM = 
-BattleBGM = ORAS Battle! (Trainer Battle)
-VictoryBGM = ORAS Victory! (Trainer Battle)
-#temp delete
-
-
-
-[RSE_INTERVIEWER_GABBY]
-Name = Interviewer
-# Non-plural 'interviewer' is accurate to the game, despite always being double battle
-Gender = Unknown
-BaseMoney = 96
-IntroBGM = 
-BattleBGM = ORAS Battle! (Trainer Battle)
-VictoryBGM = ORAS Victory! (Trainer Battle)
-#-------------------------------
-[RSE_INTERVIEWER_TY]
-Name = Interviewer
 Gender = Unknown
 BaseMoney = 96
 IntroBGM = 
@@ -1001,8 +979,8 @@ IntroBGM =
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
-[RSE_PICKNICKER]
-Name = Picknicker
+[RSE_PICNICKER]
+Name = Picnicker
 Gender = Female
 BaseMoney = 16
 IntroBGM = 
@@ -1125,7 +1103,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Sis and Bro
 Gender = Unknown
 BaseMoney = 23
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1133,7 +1111,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Sr. and Jr.
 Gender = Unknown
 BaseMoney = 32
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1149,39 +1127,39 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Swimmer
 Gender = Female
 BaseMoney = 8
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
-[RSE_TRIATHLETEBIKE_M]
+[RSE_TRIATHLETECYCLE_M]
 Name = Triathlete
 Gender = Male
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
-[RSE_TRIATHLETEBIKE_F]
+[RSE_TRIATHLETECYCLE_F]
 Name = Triathlete
 Gender = Female
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
-[RSE_TRIATHLETEJOG_M]
+[RSE_TRIATHLETERUN_M]
 Name = Triathlete
 Gender = Male
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
-[RSE_TRIATHLETEJOG_F]
+[RSE_TRIATHLETERUN_F]
 Name = Triathlete
 Gender = Female
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1189,7 +1167,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Triathlete
 Gender = Male
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1197,7 +1175,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Triathlete
 Gender = Female
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1213,7 +1191,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Tuber
 Gender = Female
 BaseMoney = 4
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1221,7 +1199,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Twins
 Gender = Unknown
 BaseMoney = 24
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1229,7 +1207,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Young Couple
 Gender = Unknown
 BaseMoney = 64
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
@@ -1245,7 +1223,7 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Winstrate
 Gender = Male
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 [RSE_VICTORIA]
@@ -1259,14 +1237,14 @@ VictoryBGM = ORAS Victory! (Trainer Battle)
 Name = Winstrate
 Gender = Female
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 [RSE_VICKY]
 Name = Winstrate
 Gender = Female
 BaseMoney = 40
-IntroBGM = 
+IntroBGM = FRLG Battle! (Mewtwo)
 BattleBGM = ORAS Battle! (Trainer Battle)
 VictoryBGM = ORAS Victory! (Trainer Battle)
 #-------------------------------
