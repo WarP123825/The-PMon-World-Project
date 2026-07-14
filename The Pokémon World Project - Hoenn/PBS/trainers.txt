@@ -4274,7 +4274,7 @@ LoseText =
 Pokemon = LINOONE,36
 	Item = NUGGET
 [RSE_LASS,Haley,1]
-LoseText = 
+LoseText = Ohh…\nI thought I could win…
 Pokemon = LOMBRE,26
 Pokemon = SHROOMISH,26
 [RSE_LASS,Haley,2]
@@ -4294,48 +4294,48 @@ Pokemon = BRELOOM,34
 # Route 105
 #-------------------------------
 [RSE_SWIMMER_F,Imani]
-LoseText = 
+LoseText = I lost while I was lounging!
 Pokemon = MARILL,26
 [RSE_SWIMMER_M,Dominik]
-LoseText = 
+LoseText = I lost…\nNow I'm feeling blue…
 Pokemon = TENTACOOL,26
 [RSE_SWIMMER_M,Luis]
-LoseText = 
+LoseText = Glub… Glub…
 Pokemon = CARVANHA,26
 [RSE_RUINMANIAC,Foster]
-LoseText = 
+LoseText = I was thinking too much about that\nrock, while my Pokémon remained weak…
 Pokemon = SANDSHREW,25
 Pokemon = SANDSLASH,25
 [RSE_SWIMMER_F,Beverly]
-LoseText = 
+LoseText = I'm floating…
 Pokemon = WINGULL,25
 Pokemon = WAILMER,25
 [RSE_BIRDKEEPER,Josue]
-LoseText = 
+LoseText = I lost because I battled the sea.
 Pokemon = TAILLOW,25
 Pokemon = WINGULL,25
-[RSE_RUINMANIAC,Andre]
-LoseText = 
+[RSE_RUINMANIAC,Andres]
+LoseText = Yes…\nI am no good at battling…
 Pokemon = SANDSHREW,25
 Pokemon = SANDSHREW,25
 #-------------------------------
 # Route 105 Rematches
 #-------------------------------
-[RSE_RUINMANIAC,Andre,1]
+[RSE_RUINMANIAC,Andres,1]
 LoseText = 
 Pokemon = SANDSHREW,31
 Pokemon = SANDSHREW,31
-[RSE_RUINMANIAC,Andre,2]
+[RSE_RUINMANIAC,Andres,2]
 LoseText = 
 Pokemon = NOSEPASS,33
 Pokemon = SANDSHREW,33
 Pokemon = SANDSHREW,33
-[RSE_RUINMANIAC,Andre,3]
+[RSE_RUINMANIAC,Andres,3]
 LoseText = 
 Pokemon = NOSEPASS,35
 Pokemon = SANDSHREW,35
 Pokemon = SANDSHREW,35
-[RSE_RUINMANIAC,Andre,4]
+[RSE_RUINMANIAC,Andres,4]
 LoseText = 
 Pokemon = NOSEPASS,37
 Pokemon = SANDSLASH,37
@@ -4352,17 +4352,17 @@ Pokemon = MAGIKARP,10
 Pokemon = TENTACOOL,7
 Pokemon = MAGIKARP,10
 [RSE_SWIMMER_F,Kyla]
-LoseText = 
+LoseText = Did you take it easy on me by any\nchance?
 Pokemon = WAILMER,26
 [RSE_SWIMMER_M,Douglas]
-LoseText = 
+LoseText = I give up!
 Pokemon = TENTACOOL,24
 Pokemon = TENTACOOL,24
 #-------------------------------
 # Route 106 Rematches
 #-------------------------------
 [RSE_FISHERMAN,Elliot,1]
-LoseText = 
+LoseText = I lost again spectacularly!
 Pokemon = TENTACOOL,24
 Pokemon = GYARADOS,27
 Pokemon = GYARADOS,27
@@ -4891,13 +4891,13 @@ Pokemon = WEEZING,35
 # Route 114
 #-------------------------------
 [RSE_FISHERMAN,Kai]
-LoseText = 
+LoseText = What was that about?\nDid mine lose in size?
 Pokemon = BARBOACH,19
 [RSE_FISHERMAN,Nolan]
 LoseText = I like to battle, but that doesn't\nmean I'm good at it…
 Pokemon = BARBOACH,19
 [RSE_PICNICKER,Charlotte]
-LoseText = 
+LoseText = That wasn't cute in the least!
 Pokemon = NUZLEAF,19
 [RSE_FISHERMAN,Claude]
 LoseText = If we were fishing, I would've won…
@@ -4909,11 +4909,11 @@ LoseText = Oh, no!
 Pokemon = MARILL,18
 Pokemon = LOMBRE,18
 [RSE_SRANDJR,Tyra & Ivy]
-LoseText = 
+LoseText = Tyra: What an amazing battle style!
 Pokemon = ROSELIA,18
 Pokemon = GRAVELER,20
 [RSE_SRANDJR,Tyra & Ivy,1]
-LoseText = 
+LoseText = Ivy: What an amazing battle style!
 Pokemon = ROSELIA,18
 Pokemon = GRAVELER,20
 [RSE_CAMPER,Shane]
@@ -5625,23 +5625,27 @@ Pokemon = BEAUTIFLY,38
 # Route 121
 #-------------------------------
 [RSE_HEXMANIAC,Tammy]
-LoseText = 
+LoseText = I have lost…
 Pokemon = DUSKULL,29
 Pokemon = SHUPPET,29
 [RSE_BUGMANIAC,Cale]
-LoseText = 
+LoseText = Of course I lost!\nI'm holding stuff in both hands!
 Pokemon = DUSTOX,29
 Pokemon = BEAUTIFLY,29
 [RSE_BEAUTY,Jessica]
-LoseText = 
+LoseText = Oh, how dare you!\nDon't take it so seriously!
 Pokemon = KECLEON,29
 Pokemon = SEVIPER,29
 [RSE_SRANDJR,Kate & Joy]
-LoseText = 
+LoseText = Kate: I blew it in front of my junior\nstudent partner…
+Pokemon = SPINDA,30
+Pokemon = SLAKING,32
+[RSE_SRANDJR,Kate & Joy,1]
+LoseText = Joy: Please forgive me, Kate!
 Pokemon = SPINDA,30
 Pokemon = SLAKING,32
 [RSE_POKEMONBREEDER_M,Myles]
-LoseText = 
+LoseText = Super awesome!
 Pokemon = MAKUHITA,25
 Pokemon = WINGULL,25
 Pokemon = TROPIUS,25
@@ -5649,7 +5653,7 @@ Pokemon = ZIGZAGOON,25
 Pokemon = ELECTRIKE,25
 Pokemon = NUMEL,25
 [RSE_POKEMONBREEDER_F,Pat]
-LoseText = 
+LoseText = Wow!\nSpectacular!
 Pokemon = POOCHYENA,25
 Pokemon = SHROOMISH,25
 Pokemon = ELECTRIKE,25
@@ -5657,18 +5661,20 @@ Pokemon = MARILL,25
 Pokemon = SANDSHREW,25
 Pokemon = GULPIN,25
 [RSE_GENTLEMAN,Walter]
-LoseText = 
+LoseText = Ah, well played.
 Pokemon = MANECTRIC,29
 [RSE_POKEFAN_F,Vanessa]
-LoseText = 
+LoseText = This isn't what I meant!
 Pokemon = PIKACHU,30
 	Item = ORANBERRY
 [RSE_COOLTRAINER_M,Marcel]
-LoseText = 
+Items = HYPERPOTION
+LoseText = Oh, now what happened here?
 Pokemon = MANECTRIC,29
 Pokemon = SHIFTRY,29
 [RSE_COOLTRAINER_F,Cristin]
-LoseText = 
+Items = HYPERPOTION
+LoseText = No!\nYou're horrid!
 Pokemon = LOUDRED,29
 Pokemon = VIGOROTH,29
 #-------------------------------
@@ -5856,31 +5862,35 @@ Pokemon = ALAKAZAM,43
 # Route 124
 #-------------------------------
 [RSE_SWIMMER_F,Grace]
-LoseText = 
+LoseText = I had no idea that you were\nthis strong!
 Pokemon = MARILL,34
 [RSE_SWIMMER_M,Declan]
-LoseText = 
+LoseText = I'm feeling blue.\nBlue as the sky…
 Pokemon = GYARADOS,34
 [RSE_SWIMMER_M,Spencer]
-LoseText = 
+LoseText = I lost my bearings in battle!
 Pokemon = TENTACOOL,33
 Pokemon = WINGULL,33
 [RSE_SISANDBRO,Lila & Roy]
-LoseText = 
+LoseText = Roy: Uh-oh…\nMy big sister will chew me out…
+Pokemon = CHINCHOU,34
+Pokemon = CARVANHA,33
+[RSE_SISANDBRO,Lila & Roy,1]
+LoseText = Lila: Roy! It's your fault we lost!\nYou're in for it later!
 Pokemon = CHINCHOU,34
 Pokemon = CARVANHA,33
 [RSE_SWIMMER_F,Jenny]
-LoseText = 
+LoseText = Oh, darn.\nI've gone and lost.
 Pokemon = WAILMER,34
 [RSE_SWIMMER_M,Chad]
-LoseText = 
+LoseText = Glub, glub, glub…\nI'm sinking…
 Pokemon = TENTACOOL,33
 Pokemon = WAILMER,33
 [RSE_TRIATHLETESWIM_F,Isabella]
-LoseText = 
+LoseText = I've only got sweat in my eyes!\nI am not crying!
 Pokemon = STARYU,34
 [RSE_SWIMMER_M,Roland]
-LoseText = 
+LoseText = Oh!\nI can't…
 Pokemon = CARVANHA,34
 #-------------------------------
 # Route 124 Rematches
@@ -5971,33 +5981,33 @@ Pokemon = TENTACRUEL,45
 # Route 126
 #-------------------------------
 [RSE_TRIATHLETESWIM_F,Isobel]
-LoseText = 
+LoseText = Ack! Why, you…\nGlub!
 Pokemon = STARYU,34
 [RSE_SWIMMER_M,Leonardo]
-LoseText = 
+LoseText = Sheesh, getting greedy didn't do\na thing for me.
 Pokemon = CARVANHA,34
 [RSE_SWIMMER_M,Dean]
-LoseText = 
+LoseText = I was done in?
 Pokemon = CARVANHA,31
 Pokemon = WINGULL,31
 Pokemon = CARVANHA,31
 [RSE_SWIMMER_F,Nikki]
-LoseText = 
+LoseText = My fantasy burst as if it were a bubble!\nBlub, blub, blub…
 Pokemon = MARILL,33
 Pokemon = SPHEAL,33
 [RSE_SWIMMER_M,Barry]
-LoseText = 
+LoseText = I admit it!\nYou win!
 Pokemon = GYARADOS,34
 [RSE_SWIMMER_F,Sienna]
-LoseText = 
+LoseText = You had more heart!
 Pokemon = LUVDISC,33
 Pokemon = LUVDISC,33
 [RSE_TRIATHLETESWIM_M,Pablo]
-LoseText = 
+LoseText = Whoops! Too strong!\nNot bad! Not bad at all!
 Pokemon = STARYU,33
 Pokemon = STARYU,33
 [RSE_SWIMMER_F,Brenda]
-LoseText = 
+LoseText = Oh, noooooh!
 Pokemon = GOLDEEN,34
 #-------------------------------
 # Route 126 Rematches
@@ -6025,36 +6035,36 @@ Pokemon = STARMIE,43
 # Route 127
 #-------------------------------
 [RSE_BIRDKEEPER,Aiden]
-LoseText = 
+LoseText = Whew… I give up.
 Pokemon = SWELLOW,32
 Pokemon = SKARMORY,32
 [RSE_COOLTRAINER_F,Athena]
-LoseText = 
+LoseText = You didn't give me the chance to\ndo any strategizing.
 Pokemon = MANECTRIC,32
 Pokemon = LINOONE,32
 [RSE_FISHERMAN,Roger]
-LoseText = 
+LoseText = No! My line's all tangled!\nThe party's over!
 Pokemon = MAGIKARP,15
 Pokemon = MAGIKARP,25
 Pokemon = GYARADOS,35
 [RSE_FISHERMAN,Jonah]
-LoseText = 
+LoseText = Though I have lost, my heart remains\ncalm…
 Pokemon = WAILMER,30
 Pokemon = TENTACOOL,31
 Pokemon = SHARPEDO,32
 [RSE_FISHERMAN,Henry]
-LoseText = 
+LoseText = I can't keep up!
 Pokemon = CARVANHA,31
 Pokemon = TENTACRUEL,34
 [RSE_TRIATHLETESWIM_M,Camden]
-LoseText = 
+LoseText = Awawawawawa…
 Pokemon = STARYU,33
 Pokemon = STARYU,33
 [RSE_BLACKBELT,Koji]
-LoseText = 
+LoseText = Yowch!\nI got a pebble under a toenail!
 Pokemon = MACHOKE,34
 [RSE_TRIATHLETESWIM_F,Donny]
-LoseText = 
+LoseText = Arrrgh!\nI hate losing!
 Pokemon = WINGULL,26
 Pokemon = STARYU,34
 #-------------------------------
@@ -6083,29 +6093,31 @@ Pokemon = MACHAMP,43
 # Route 128
 #-------------------------------
 [RSE_TRIATHLETESWIM_M,Isaiah]
-LoseText = 
+LoseText = My first victory seems to be far\naway, too…
 Pokemon = STARYU,35
 [RSE_COOLTRAINER_F,Alexa]
-LoseText = 
+Items = HYPERPOTION
+LoseText = Oh!\nHow could this happen?!
 Pokemon = GLOOM,34
 Pokemon = AZUMARILL,34
 [RSE_COOLTRAINER_M,Ruben]
-LoseText = 
+Items = HYPERPOTION
+LoseText = This can't be!
 Pokemon = SHIFTRY,34
 Pokemon = NOSEPASS,34
 [RSE_FISHERMAN,Wayne]
-LoseText = 
+LoseText = I'm crestfallen!
 Pokemon = TENTACOOL,31
 Pokemon = TENTACOOL,31
 Pokemon = WAILMER,36
 [RSE_TRIATHLETESWIM_F,Katelyn]
-LoseText = 
+LoseText = A Pokémon battle is grueling, too…
 Pokemon = STARYU,35
 [RSE_SWIMMER_F,Carlee]
-LoseText = 
+LoseText = I couldn't see very well because of\nthe sun's glare.
 Pokemon = SEAKING,35
 [RSE_SWIMMER_M,Harrison]
-LoseText = 
+LoseText = Ouch!\nI guess it was impossible to win.
 Pokemon = TENTACRUEL,35
 #-------------------------------
 # Route 128 Rematches
@@ -6138,22 +6150,22 @@ Pokemon = STARMIE,48
 # Route 129
 #-------------------------------
 [RSE_SWIMMER_M,Reed]
-LoseText = 
+LoseText = Beat, I'm beaten.\nThat's it, done!
 Pokemon = SPHEAL,33
 Pokemon = SHARPEDO,33
 [RSE_TRIATHLETESWIM_M,Chase]
-LoseText = 
+LoseText = Wroooaaar!\nI failed to win!
 Pokemon = WINGULL,26
 Pokemon = STARYU,34
 [RSE_TRIATHLETESWIM_F,Allison]
-LoseText = 
+LoseText = I was sure I'd win!
 Pokemon = WINGULL,27
 Pokemon = STARYU,33
 [RSE_SWIMMER_F,Tisha]
-LoseText = 
+LoseText = Oh, my.\nI wanted to relax a little more…
 Pokemon = CHINCHOU,34
 [RSE_SWIMMER_M,Clarence]
-LoseText = 
+LoseText = Winning sure isn't easy.
 Pokemon = SHARPEDO,34
 #-------------------------------
 # Route 129 Rematches
@@ -6162,14 +6174,14 @@ Pokemon = SHARPEDO,34
 # Route 130
 #-------------------------------
 [RSE_SWIMMER_M,Rodney]
-LoseText = 
+LoseText = This kid's awfully tough…
 Pokemon = GYARADOS,34
 [RSE_SWIMMER_F,Katie]
-LoseText = 
+LoseText = Like the vast blue sea,\nthe world of Pokémon spans\ndepths beyond belief.
 Pokemon = GOLDEEN,33
 Pokemon = SPHEAL,33
 [RSE_SWIMMER_M,Santiago]
-LoseText = 
+LoseText = I needed to be a little less peaceful!
 Pokemon = TENTACRUEL,33
 Pokemon = WAILMER,33
 #-------------------------------
@@ -6179,26 +6191,30 @@ Pokemon = WAILMER,33
 # Route 131
 #-------------------------------
 [RSE_SWIMMER_M,Kevin]
-LoseText = 
+LoseText = Oops!
 Pokemon = SPHEAL,34
 [RSE_TRIATHLETESWIM_F,Talia]
-LoseText = 
+LoseText = Oh?\nDid I lose?
 Pokemon = STARYU,34
 [RSE_SWIMMER_M,Richard]
-LoseText = 
+LoseText = Pokémon raised by trainers are\nseriously tough…
 Pokemon = PELIPPER,34
 [RSE_SWIMMER_F,Kara]
-LoseText = 
+LoseText = I'm out of my depth!
 Pokemon = SEAKING,34
 [RSE_SWIMMER_F,Susie]
-LoseText = 
+LoseText = You're tough in spite of the way\nyou look!
 Pokemon = LUVDISC,34
 [RSE_SWIMMER_M,Herman]
-LoseText = 
+LoseText = Bleah!
 Pokemon = WINGULL,33
 Pokemon = TENTACRUEL,33
 [RSE_SISANDBRO,Reli & Ian]
-LoseText = 
+LoseText = Ian: I did my best with my sis,\nbut we still couldn't win…
+Pokemon = AZUMARILL,35
+Pokemon = WINGULL,33
+[RSE_SISANDBRO,Reli & Ian,1]
+LoseText = Reli: We couldn't win even though we\nworked together…
 Pokemon = AZUMARILL,35
 Pokemon = WINGULL,33
 #-------------------------------
@@ -6603,21 +6619,21 @@ LoseText =
 Pokemon = SANDSLASH,36
 # Mt.Chimney #------------------
 [RSE_BEAUTY,Shirley]
-LoseText = 
+LoseText = Yowch!\nI'm getting a chill out of the water.
 Pokemon = NUMEL,21
 [RSE_BEAUTY,Sheila]
-LoseText = 
+LoseText = The way you battle…\nIt's like a Mt. Chimney eruption!
 Pokemon = SHROOMISH,21
 [RSE_EXPERT_F,Shelby]
-LoseText = 
+LoseText = Oh, my goodness.\nNow, aren't you something!
 Pokemon = MEDITITE,21
 Pokemon = MAKUHITA,21
 	Gender = male
 [RSE_HIKER,Sawyer]
-LoseText = 
+LoseText = Oh, you're a real firebrand, too!
 Pokemon = GEODUDE,21
 [RSE_BEAUTY,Melissa]
-LoseText = 
+LoseText = Ooh, that was a scorching-hot match!
 Pokemon = MARILL,21
 [RSE_EXPERT_F,Shelby,1]
 LoseText = 
@@ -6718,27 +6734,32 @@ Pokemon = SANDSLASH,34
 Pokemon = LINOONE,34
 # Mt.Pyre #---------------------
 [RSE_POKEMANIAC,Mark]
-LoseText = 
+LoseText = Ayieeeeh!\nI'm sorry, forgive me, please!
 Pokemon = RHYHORN,31
 [RSE_HEXMANIAC,Leah]
-LoseText = 
+LoseText = Hmm…\nYou're durable.
 Pokemon = SPOINK,31
 [RSE_BLACKBELT,Zander]
-LoseText = 
+LoseText = Nooooooo!\nI lost my wits!
 Pokemon = HARIYAMA,31
 [RSE_YOUNGCOUPLE,Dez & Luke]
-LoseText = 
+LoseText = Dez: Waaaah! I'm scared!
+Pokemon = DELCATTY,31
+	Gender = female
+Pokemon = MANECTRIC,31
+[RSE_YOUNGCOUPLE,Dez & Luke,1]
+LoseText = Luke: Whoopsie!
 Pokemon = DELCATTY,31
 	Gender = female
 Pokemon = MANECTRIC,31
 [RSE_PSYCHIC_F,Kayla]
-LoseText = 
+LoseText = I lost that cleanly…
 Pokemon = WOBBUFFET,26
 Pokemon = NATU,26
 Pokemon = KADABRA,26
 	Gender = male
 [RSE_POKEMONBREEDER_F,Gabrielle]
-LoseText = 
+LoseText = That was amazing!\nYou're a very special trainer.
 Pokemon = SKITTY,26
 Pokemon = POOCHYENA,26
 Pokemon = ZIGZAGOON,26
@@ -6746,21 +6767,21 @@ Pokemon = LOTAD,26
 Pokemon = SEEDOT,26
 Pokemon = TAILLOW,26
 [RSE_PSYCHIC_M,William]
-LoseText = 
+LoseText = I drown in self-pity…
 Pokemon = RALTS,26
 Pokemon = RALTS,26
 Pokemon = KIRLIA,26
 [RSE_HEXMANIAC,Tasha]
-LoseText = 
+LoseText = Losing, I dislike…
 Pokemon = SHUPPET,32
 [RSE_BLACKBELT,Atsushi]
-LoseText = 
+LoseText = Teacher…\nPlease forgive me!
 Pokemon = HARIYAMA,32
 [RSE_HEXMANIAC,Valerie]
-LoseText = 
+LoseText = The power is ebbing away…
 Pokemon = SABLEYE,32
 [RSE_PSYCHIC_M,Cedric]
-LoseText = 
+LoseText = Weren't you lost?
 Pokemon = WOBBUFFET,32
 [RSE_POKEMONBREEDER_F,Gabrielle,1]
 LoseText = 
@@ -6853,71 +6874,87 @@ Pokemon = SHELGON,49
 	Item = DRAGONFANG
 # Victory Road #----------------
 [RSE_COOLTRAINER_M,Albert]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Impossible…\nI lost?
 Pokemon = MAGNETON,43
 Pokemon = MUK,43
 [RSE_COOLTRAINER_F,Hope]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Your battle style is fantastic…
 Pokemon = ROSELIA,45
 [RSE_COOLTRAINER_F,Shannon]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Your relationship is based on\nsolid trust.
 Pokemon = CLAYDOL,45
 [RSE_COOLTRAINER_M,Samuel]
-LoseText = 
+Items = FULLRESTORE
+LoseText = I couldn't do a thing…
 Pokemon = SWELLOW,42
 Pokemon = MAWILE,42
 Pokemon = KADABRA,42
 [RSE_COOLTRAINER_F,Julie]
-LoseText = 
+Items = FULLRESTORE
+LoseText = You're better than me!
 Pokemon = SANDSLASH,42
 Pokemon = NINETALES,42
 Pokemon = TROPIUS,42
 [RSE_COOLTRAINER_M,Owen]
-LoseText = 
+Items = FULLRESTORE
+LoseText = The little shrimp is tough!
 Pokemon = KECLEON,42
 Pokemon = GRAVELER,42
 Pokemon = WAILORD,42
 [RSE_COOLTRAINER_F,Dianne]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Not rattled in the least bit!
 Pokemon = CLAYDOL,43
 Pokemon = LANTURN,43
 [RSE_COOLTRAINER_M,Felix]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Ooh…\nIt hurts…
 Pokemon = MEDICHAM,43
 Pokemon = CLAYDOL,43
 [RSE_COOLTRAINER_F,Caroline]
-LoseText = 
+Items = FULLRESTORE
+LoseText = No signs of tiring at all!
 Pokemon = SKARMORY,43
 Pokemon = SABLEYE,43
 [RSE_COOLTRAINER_M,Vito]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Better than my family?!\nIs that possible?!
 Pokemon = DODRIO,42
 Pokemon = KADABRA,42
 Pokemon = ELECTRODE,42
 Pokemon = SHIFTRY,42
 [RSE_COOLTRAINER_F,Michelle]
-LoseText = 
+Items = FULLRESTORE
+LoseText = That's the way!
 Pokemon = TORKOAL,42
 Pokemon = MEDICHAM,42
 Pokemon = LUDICOLO,42
 [RSE_COOLTRAINER_M,Mitchell]
-LoseText = 
+Items = FULLRESTORE
+LoseText = I've never met anyone like you before.
 Pokemon = LUNATONE,43
 Pokemon = SOLROCK,43
 [RSE_COOLTRAINER_F,Halle]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Whoa!\nWonderful!
 Pokemon = SABLEYE,43
 Pokemon = ABSOL,43
 [RSE_COOLTRAINER_M,Edgar]
-LoseText = 
+Items = FULLRESTORE
+LoseText = My dream ends here again…
 Pokemon = CACTURNE,43
 Pokemon = PELIPPER,43
 [RSE_COOLTRAINER_F,Katelynn]
-LoseText = 
+Items = FULLRESTORE
+LoseText = This is a disgrace…
 Pokemon = GARDEVOIR,43
 Pokemon = SLAKING,43
 [RSE_COOLTRAINER_M,Quincy]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Okay!\nWell done!
 Pokemon = SLAKING,43
 Pokemon = DUSCLOPS,43
 #-------------------------------
@@ -6989,20 +7026,20 @@ Pokemon = ZUBAT,26
 Pokemon = CARVANHA,26
 #
 [RSE_AQUAGRUNT_M,Grunt,7]
-LoseText = Urgh… I should've let you take on\nTEAM MAGMA first…
+LoseText = Urgh… I should've let you take on\nTeam Magma first…
 Pokemon = CARVANHA,32
 #
 [RSE_AQUAGRUNT_M,Grunt,8]
-LoseText = I thought you were one of the MAGMAS\nwho happened to come back…
+LoseText = I thought you were one of the Magmas\nwho happened to come back…
 Pokemon = ZUBAT,32
 #
 [RSE_AQUAGRUNT_M,Grunt,9]
-LoseText = If you're going to mess with anyone,\nlet it be TEAM MAGMA…
+LoseText = If you're going to mess with anyone,\nlet it be Team Magma…
 Pokemon = POOCHYENA,30
 Pokemon = CARVANHA,30
 #
 [RSE_AQUAGRUNT_F,Grunt,2]
-LoseText = If you want to join TEAM AQUA that\nbadly, we can consider it…
+LoseText = If you want to join Team Aqua that\nbadly, we can consider it…
 Pokemon = WAILMER,30
 Pokemon = ZUBAT,30
 #
@@ -7037,7 +7074,7 @@ LoseText = What's wrong with you?\nYou're not tired at all!
 Pokemon = ZUBAT,32
 #
 [RSE_AQUAGRUNT_M,Grunt,14]
-LoseText = I was too occupied thinking about\n the warp panels…
+LoseText = I was too occupied thinking about\nthe warp panels…
 Pokemon = CARVANHA,32
 #
 [RSE_AQUAGRUNT_M,Grunt,15]
@@ -7082,7 +7119,7 @@ Pokemon = CAMERUPT,25
 #
 [RSE_MAGMALEADER_MAXIE,Maxie,1]
 Items = SUPERPOTION,SUPERPOTION
-LoseText = What makes you so adept at handling Pokémon?
+LoseText = What makes you so adept at handling\nPokémon?
 Pokemon = MIGHTYENA,37
 Pokemon = CROBAT,38
 Pokemon = CAMERUPT,39
@@ -7130,13 +7167,12 @@ Pokemon = NUMEL,22
 LoseText = Arrgh!\nTaken down!
 Pokemon = POOCHYENA,29
 #
-# IMPORTANT, THE GRUNT BELOW IS IS THE ONE IN 1F
 [RSE_MAGMAGRUNT_M,Grunt,3]
 LoseText = Ooh wow!\nI concede!
 Pokemon = NUMEL,29
 #
 [RSE_MAGMAGRUNT_F,Grunt,1]
-LoseText = Aiyiyi…\nMy pride as a TEAM MAGMA member…
+LoseText = Aiyiyi…\nMy pride as a Team Magma member…
 Pokemon = MIGHTYENA,29
 #
 [RSE_MAGMAGRUNT_M,Grunt,4]
@@ -7151,10 +7187,9 @@ Pokemon = ZUBAT,28
 #
 # IMPORTANT, THE GRUNT BELOW IS THE ONE IN MAGMA HIDEOUT ENTRANCE
 [RSE_MAGMAGRUNT_M,Grunt,6]
-LoseText = I'm always late for training sessions,\ntoo!\nI hate to say it, but I'm wimpy…
+LoseText = I'm always late for training sessions,\ntoo!\n\nI hate to say it, but I'm wimpy…
 Pokemon = ZUBAT,29
 #
-# IMPORTANT, THE GRUNT BELOW IS THE ONE IN B1F
 [RSE_MAGMAGRUNT_M,Grunt,7]
 LoseText = You're a fiery battler.\nJust like a volcano!
 Pokemon = ZUBAT,29
@@ -7167,17 +7202,14 @@ Pokemon = POOCHYENA,29
 LoseText = I may have lost, but…
 Pokemon = NUMEL,29
 #
-# IMPORTANT, THE GRUNT BELOW IS IN B1F
 [RSE_MAGMAGRUNT_M,Grunt,9]
-LoseText = Yeah, I really may not be right for\nTEAM MAGMA…
+LoseText = Yeah, I really may not be right for\nTeam Magma…
 Pokemon = MIGHTYENA,29
 #
-# IMPORTANT, THE GRUNT BELOW IS IN B2F
 [RSE_MAGMAGRUNT_M,Grunt,10]
 LoseText = I'm getting heat exhaustion…
 Pokemon = ZUBAT,29
 #
-# IMPORTANT, THE GRUNT BELOW IS IN B3F
 [RSE_MAGMAGRUNT_M,Grunt,11]
 LoseText = Yeah, I think we are doing something\nwrong somehow.
 Pokemon = MIGHTYENA,29
@@ -7226,8 +7258,7 @@ Pokemon = ZUBAT,32
 [RSE_MAGMAGRUNT_M,Grunt,19]
 LoseText = I lost, too!\nBut!
 Pokemon = MIGHTYENA,32
-#
-# IMPORTANT, THE GRUNT BELOW IS ON THE UPPER FLOOR OF THE SPACE CENTER
+# 
 [RSE_MAGMAGRUNT_M,Grunt,20]
 LoseText = We should've taken a break…\nThat's what we should've done…
 Pokemon = BALTOY,32
@@ -7255,9 +7286,9 @@ Pokemon = GEODUDE,10
 LoseText = Wow! You've got some potential!
 Pokemon = GEODUDE,8
 Pokemon = GEODUDE,8
+#probably below needs line break
 [RSE_HIKER,Mark]
-LoseText = Oh, man oh man!\nOur challenger is one fiesty 
-customer!
+LoseText = Oh, man oh man!\nOur challenger is one fiesty customer!
 Pokemon = GEODUDE,8
 Pokemon = GEODUDE,8
 # Gym 2 #-----------------
@@ -7383,70 +7414,71 @@ LoseText = You seem to know your stuff!
 Pokemon = TROPIUS,30
 # Gym 7 #-----------------
 [RSE_PSYCHIC_M,Preston]
-LoseText = 
+LoseText = I lost!\nI must temper my spirit again!
 Pokemon = KIRLIA,36
 [RSE_PSYCHIC_F,Maura]
-LoseText = 
+LoseText = You've traveled a path of greatness!
 Pokemon = KADABRA,36
 [RSE_PSYCHIC_F,Samantha]
-LoseText = 
+LoseText = I surrender!
 Pokemon = XATU,36
 [RSE_PSYCHIC_M,Blake]
-LoseText = 
+LoseText = My Pokémon battling skills are out\nof sync, too!
 Pokemon = GIRAFARIG,36
 [RSE_PSYCHIC_F,Macey]
-LoseText = 
+LoseText = How could you be so ludicrously\nstrong?
 Pokemon = NATU,36
 [RSE_GENTLEMAN,Clifford]
-LoseText = 
+LoseText = Ah, you overflow with the power\nof youth!
 Pokemon = GIRAFARIG,36
 [RSE_HEXMANIAC,Kathleen]
-LoseText = 
+LoseText = N-nooooo!
 Pokemon = KADABRA,36
 [RSE_PSYCHIC_M,Nicholas]
-LoseText = 
+LoseText = Oh!\nDone in!
 Pokemon = WOBBUFFET,36
 [RSE_GENTLEMAN,Nate]
-LoseText = 
+LoseText = Oh! My, my!\nYour battle style is fantastic!
 Pokemon = SPOINK,36
 [RSE_PSYCHIC_M,Virgil]
-LoseText = 
+LoseText = You possess spectacular talent!
 Pokemon = RALTS,36
 [RSE_HEXMANIAC,Sylvia]
-LoseText = 
+LoseText = What you do…\nIt horrifies me…
 Pokemon = MEDITITE,36
 [RSE_PSYCHIC_F,Hannah]
-LoseText = 
+LoseText = You're just too strong!
 Pokemon = KIRLIA,36
 # Gym 8 #-----------------
 [RSE_BEAUTY,Connie]
-LoseText = 
+LoseText = Oh.\nYou're strong.
 Pokemon = GOLDEEN,40
 [RSE_LASS,Andrea]
-LoseText = 
+LoseText = Please forgive me, Juan…
 Pokemon = LUVDISC,40
 [RSE_LADY,Daphne]
-LoseText = 
+Items = FULLRESTORE
+LoseText = You battled with more beauty than\nI could muster…
 Pokemon = LUVDISC,39
 	Item = NUGGET
 Pokemon = LUVDISC,39
 	Item = NUGGET
 [RSE_POKEFAN_F,Annika]
-LoseText = 
+LoseText = Oh, there now! Did you have a good look\nat my Pokémon?
 Pokemon = FEEBAS,39
 	Item = ORANBERRY
 Pokemon = FEEBAS,39
 	Item = ORANBERRY
 [RSE_BEAUTY,Tiffany]
-LoseText = 
+LoseText = Well, excuse me?!
 Pokemon = CARVANHA,39
 Pokemon = SHARPEDO,39
 [RSE_LASS,Crissy]
-LoseText = 
+LoseText = You're strong!\nI was fooled by your cute looks!
 Pokemon = GOLDEEN,39
 Pokemon = WAILMER,39
 [RSE_POKEFAN_F,Bethany]
-LoseText = 
+LoseText = Oops!
 Pokemon = AZURILL,35
 	Item = ORANBERRY
 Pokemon = MARILL,37
@@ -7454,16 +7486,17 @@ Pokemon = MARILL,37
 Pokemon = AZUMARILL,39
 	Item = ORANBERRY
 [RSE_BEAUTY,Olivia]
-LoseText = 
+LoseText = I was beaten…
 Pokemon = CLAMPERL,35
 Pokemon = CORPHISH,37
 Pokemon = LOMBRE,29
 [RSE_LADY,Brianna]
-LoseText = 
+Items = FULLRESTORE
+LoseText = Oh, dear.\nI went much too easy on you.
 Pokemon = SEAKING,40
 	Item = NUGGET
 [RSE_BEAUTY,Bridget]
-LoseText = 
+LoseText = What a high level you are!
 Pokemon = AZUMARILL,40
 #-------------------------------
 # RSE LEADERS
@@ -7546,7 +7579,7 @@ Pokemon = ALTARIA,33
 #
 [RSE_LEADER_TATEANDLIZA,Tate&Liza]
 Items = HYPERPOTION,HYPERPOTION,HYPERPOTION,HYPERPOTION
-LoseText = TATE: What?! Our combination…\nLIZA: Was shattered!\nTATE: It can't be helped. You've won…\nLIZA: So, in recognition, take this.
+LoseText = Tate: What?! Our combination…\nLiza: Was shattered!\n\nTate: It can't be helped. You've won…\nLiza: So, in recognition, take this.
 Pokemon = CLAYDOL,41
 	Moves = EARTHQUAKE,ANCIENTPOWER,PSYCHIC,LIGHTSCREEN
 Pokemon = XATU,41
@@ -7560,7 +7593,7 @@ Pokemon = SOLROCK,42
 #
 [RSE_LEADER_JUAN,Juan]
 Items = HYPERPOTION,HYPERPOTION
-LoseText = Ahahaha, excellent!\nVery well, you are the winner.\nFrom you, I sense the brilliant shine\nof skill that will overcome all.\nHowever, compared with me or even\nWALLACE, you are lacking in elegance.\nPerhaps I should make you a loan\nof my outfit?\n… … … … … …\n… … … … … …\nHahaha, I merely jest!\n\nRather than my clothes, I shall reward\nyou with this, the Rain Badge!
+LoseText = Ahahaha, excellent!\nVery well, you are the winner.\n\nFrom you, I sense the brilliant shine\nof skill that will overcome all.\n\nHowever, compared with me or even\nWallace, you are lacking in elegance.\n\nPerhaps I should make you a loan\nof my outfit?\n\n… … … … … …\n… … … … … …\n\nHahaha, I merely jest!\n\nRather than my clothes, I shall reward\nyou with this, the Rain Badge!
 Pokemon = LUVDISC,41
 	Gender = female
 	Moves = WATERPULSE,ATTRACT,SWEETKISS,FLAIL
@@ -7589,7 +7622,7 @@ Pokemon = ABSOL,49
 	Moves = AERIALACE,ROCKSLIDE,SWORDSDANCE,SLASH
 	Item = SITRUSBERRY
 #
-[RSE_ELITEFOUR_PHOEBE]
+[RSE_ELITEFOUR_PHOEBE,Phoebe]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Oh, darn.\nI've gone and lost.
 Pokemon = DUSCLOPS,48
@@ -7604,9 +7637,9 @@ Pokemon = DUSCLOPS,51
 	Moves = SHADOWBALL,ICEBEAM,ROCKSLIDE,EARTHQUAKE
 	Item = SITRUSBERRY
 #
-[RSE_ELITEFOUR_GLACIA]
+[RSE_ELITEFOUR_GLACIA,Glacia]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = You and your Pokémon…\nHow hot your spirits burn!\nThe all-consuming heat overwhelms.\n\nIt's no surprise that my icy skills\nfailed to harm you.
+LoseText = You and your Pokémon…\nHow hot your spirits burn!\n\nThe all-consuming heat overwhelms.\n\nIt's no surprise that my icy skills\nfailed to harm you.
 Pokemon = SEALEO,50
 	Moves = ENCORE,BODYSLAM,HAIL,ICEBALL
 Pokemon = GLALIE,50
@@ -7619,7 +7652,7 @@ Pokemon = WALREIN,53
 	Moves = SURF,BODYSLAM,ICEBEAM,SHEERCOLD
 	Item = SITRUSBERRY
 #
-[RSE_ELITEFOUR_DRAKE]
+[RSE_ELITEFOUR_DRAKE,Drake]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Superb, it should be said.
 Pokemon = SHELGON,52
@@ -7634,9 +7667,9 @@ Pokemon = SALAMENCE,55
 	Moves = FLAMETHROWER,DRAGONCLAW,ROCKSLIDE,CRUNCH
 	Item = SITRUSBERRY
 #
-[RSE_CHAMPION_WALLACE]
+[RSE_CHAMPION_WALLACE,Wallace]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE
-LoseText = I, the Champion, fall in defeat…\n\nThat was wonderful work.\nYou were elegant, infuriatingly so. And yet it was utterly glorious!\nKudos to you, \pn!\n\nYou are a truly noble Pokémon\nTrainer!
+LoseText = I, the Champion, fall in defeat…\n\nThat was wonderful work.\nYou were elegant, infuriatingly so.\nAnd yet it was utterly glorious!\n\nKudos to you, \pn!\n\nYou are a truly noble Pokémon\nTrainer!
 Pokemon = WAILORD,57
 	Moves = RAINDANCE,WATERSPOUT,DOUBLEEDGE,BLIZZARD
 Pokemon = TENTACRUEL,55
@@ -7667,7 +7700,7 @@ Pokemon = WHISCASH,42
 Pokemon = MILOTIC,43
 	Moves = RECOVER,TWISTER,ICEBEAM,WATERPULSE
 #
-[RSE_CHAMPION_STEVEN]
+[RSE_CHAMPION_STEVEN,Steven]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE
 LoseText = I, the Champion, fall in defeat…\n\nKudos to you, \pn!\n\nYou are a truly noble Pokémon\nTrainer!
 Pokemon = SKARMORY,57
